@@ -1,0 +1,27 @@
+{
+  "name": "phonelist",
+  "displayName": "phonelist",
+  "expo": {
+    "name": "Phone list",
+    "slug": "phonelist",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.willianmedeiros.phonelist",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.willianmedeiros.phonelist",
+      "versionCode": 1
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#013088"
+    }
+  }
+}
